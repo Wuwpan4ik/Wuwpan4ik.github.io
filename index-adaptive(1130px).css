@@ -1,0 +1,177 @@
+@media screen and (max-width:1165px){
+	.navigator .navigator-logo{
+	display: inline-block;
+	padding-top: 45px;
+	padding-left: 30px;
+	margin-right: 10px;
+	}
+	.recipe{
+		display: none;
+	}
+	.recipes{
+		height:680px;
+	}
+	.info{
+		display: none;
+	}
+	.comment{
+		display: none;
+	}
+	.comments{
+		display: none;
+
+	}
+	.Raspberry{
+		width: 50%;
+	}
+	.back-navigator{
+		display: none;	
+	}
+}
+@media screen and (max-width:1018px){
+	.navigator .navigator-search{
+		width:130px;
+		margin-left: 20px;
+		padding-left: 10px;
+	}
+	
+}
+@media screen and (max-width: 900px) {
+	.navigator .navigator-categor{
+		display: none;
+	}
+	.navigator .navigator-search{
+		width:150px;
+		margin-left: 20px;
+		padding-left: 10px;
+	}
+	.recipes{
+		height:1000px;
+	}
+	.Ice{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.Raspberry{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.Chocolate{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+@media screen and (max-width:780px){
+	.navigator .navigator-videos{
+		display: none;
+	}
+}
+@media screen and (max-width:700px){
+	.navigator .navigator-search{
+		margin-left: 0px;
+	}
+}
+@media screen and (max-width:680px){
+	.navigator .navigator-photo{
+		display: none;
+	}
+	.navigator .navigator-search{
+		margin-left: 20px;
+	}
+}
+@media screen and (max-width:580px){
+	.navigator .navigator-home,.navigator-recipes{
+		display:none;
+	}
+}
+@media screen and (max-width:375px){
+	.logo{
+		display: none;
+	}
+	.navigator{
+		width:100%;
+	}
+	.hero{
+		display: none;	
+	}
+	.navigator .navigator-search{
+		margin-left: -10px;
+		padding-left: 10px;
+		margin-top: 5px;
+		border:none;
+	}
+	.navigator .navigator-burger{
+		display: inline-block;
+	}
+	.navigator .navigator-logo{
+		padding-left: 30px;
+	}
+	.recipes{
+		width: 100%;
+		margin-top: 0px;
+		height: 100%;
+	}
+	.Raspberry{
+		padding-left: 0px;
+		padding-top:0px;
+		width: 100%;
+	}
+	.Raspberry-img{
+		width: 100%;
+		height: 100%;
+	}
+	.Ice{
+		padding-left: 0px;
+		padding-top:0px;
+		width: 100%;
+	}
+	.Ice-img{
+		width: 100%;
+		height: 100%;
+	}
+	.Chocolate{
+		padding-left: 0px;
+		padding-top:0px;
+		width: 100%;
+	}
+	.Chocolate-img{
+		width: 100%;
+		height: 100%;
+	}
+	.ht,.recipes-info{
+		padding-left: 20px;
+	}
+	.recipe{
+		display: none;
+	}
+	.info{
+		display: none;
+	}
+	.comment{
+		display: none;
+	}
+	.comments{
+		display: none;
+
+	}
+	a .hero__mob-img{
+		width: 100%;
+		height: 100%;
+		display: block;
+}
+	#hero__mob-button{
+		width:100%;
+		height: 70px;
+		text-transform: uppercase;	
+		font-size: 18px;
+		font-family: "JosefinSans";
+		color: rgb(0, 0, 0);
+		letter-spacing: 1px;
+		border:none;
+		display: block;
+}
+}
+
